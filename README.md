@@ -7,7 +7,7 @@ It features the following:
 - A user connects their employer account via Argyle Link.
 - Employment data is retrieved via the Argyle API for loan decisioning.
 - A custom endpoint is provided which allows you to initiate a pay distribution change after approving a loan.
-- A new Deposit Account with account and routing number is generated via Unit API.
+- A new Deposit Account with account and routing numbers is generated via Unit API.
 - A new pay distribution config with the generated Deposit Account is created and assigned to user’s account.
 
 ## Tech stack
