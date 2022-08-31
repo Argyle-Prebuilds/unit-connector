@@ -1,4 +1,4 @@
-# Unit Connector
+![Unit Pay Connector ithub](https://user-images.githubusercontent.com/18395671/187649789-166de350-dad9-4a58-ace1-8064bd21fba3.png)
 
 This example showcases how to utilize services provided by [Unit](https://www.unit.co/) to generate account and routing numbers for deposit switching and maintain a mapping of Argyle account IDs against bank routing & account numbers.
 
